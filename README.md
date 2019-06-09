@@ -5,7 +5,7 @@
 
 ---
 
-#### IMPORTANT NOTE (09/21/2017):
+#### IMPORTANT NOTE:
 
 This GitHub repository contains the code examples of the **1st Edition** of Python Machine Learning book. If you are looking for the code examples of the **2nd Edition**, please refer to [this](https://github.com/praveen1664/solved-python-machine-learning-book-2nd-edition.git) repository instead. 
 
